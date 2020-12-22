@@ -1,6 +1,7 @@
 # TechMania
 
-Search Engine designed to search all the Technology News and Articles from 2013 - Present and to find Document Similarity. 
+Search Engine designed to search all the Technology News and Articles from 2013 - Present and
+to find Document Similarity between 2 articles. 
 
 ## **Dataset**:
 
