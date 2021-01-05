@@ -42,7 +42,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## For more detail [Report](https://github.com/AtluriNikhil/TechMania/blob/main/IR%20Project/Report.pdf)
+## For more detail Visit [Documentation](https://github.com/AtluriNikhil/TechMania/blob/main/IR%20Project/Report.pdf)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
